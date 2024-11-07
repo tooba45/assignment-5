@@ -16,7 +16,7 @@ const Home = () => {
         src="/images/imagee.png" alt="paragraph" width={902} height={147}
         />
       
-      <button className=" bg-[#7a7256] p-[10px] round-[10px] gap-[10px] text-white">Explore Now</button>
+      <button className=" bg-[#6e674d] p-[10px] round-[10px] gap-[10px] text-white">Explore Now</button>
       </div>
       <div className="w-1/2 mt-6 ml-34
        flex justify-center items-center">
